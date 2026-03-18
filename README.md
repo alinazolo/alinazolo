@@ -29,6 +29,7 @@ JavaScript | TypeScript | Node.js | React | Next.js | Next.js | HTML5 | CSS3 | E
 <b>Project:</b> NoteHub is a simple and efficient app for managing personal notes.
 
 <b>Role:</b> Frontend Developer
+
 Tech stack: TypeScript · Next.js (App Router) · TanStack Query (React Query) · Zustand · REST API · SSR/CSR · Dynamic Routes · Pagination · Responsive Web Design · Git · GitHub · CSS Modules · Authentication
 
 <b>Key features & achievements:</b><br>
@@ -48,6 +49,7 @@ Tech stack: TypeScript · Next.js (App Router) · TanStack Query (React Query) �
 <b>Project:</b> Responsive Landing Page<br>
 
 <b>Role:</b> Frontend Developer (Feedback Section)<br>
+
 Soft Skills: Teamwork · Cross-functional Collaboration<br>
 Technology Stack: HTML5 · CSS3 · JavaScript · REST API · Pagination · Responsive Web Design · Git · GitHub<br>
 
