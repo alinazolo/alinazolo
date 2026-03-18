@@ -31,7 +31,7 @@ JavaScript | TypeScript | Node.js | React | Next.js | Next.js | HTML5 | CSS3 | E
 <b>Role:</b> Frontend Developer
 Tech stack: TypeScript · Next.js (App Router) · TanStack Query (React Query) · Zustand · REST API · SSR/CSR · Dynamic Routes · Pagination · Responsive Web Design · Git · GitHub · CSS Modules · Authentication
 
-<b>Key features & achievements:</b>
+<b>Key features & achievements:</b><br>
 • Integrated REST API and implemented full CRUD functionality (create, read, update, delete)<br>
 • Built data fetching and caching with TanStack Query for smoother UX and better performance<br>
 • Configuring authentication with private and public routes<br>
@@ -44,4 +44,20 @@ Tech stack: TypeScript · Next.js (App Router) · TanStack Query (React Query) �
 
 [Live demo ](https://09-auth-eight-taupe.vercel.app/) <br>
 [Source code ](https://github.com/alinazolo/09-auth) 
+
+<b>Project:</b> Responsive Landing Page<br>
+
+<b>Role:</b> Frontend Developer (Feedback Section)<br>
+Soft Skills: Teamwork · Cross-functional Collaboration<br>
+Technology Stack: HTML5 · CSS3 · JavaScript · REST API · Pagination · Responsive Web Design · Git · GitHub<br>
+
+<b>Key Contributions & Achievements:</b><br>
+• Contributed to a collaborative team project, coordinating closely with other developers<br>
+• Built the “Наші хвостики” section by integrating and rendering data from a backend REST API<br>
+• Implemented pagination and dynamic data loading for improved performance and usability<br>
+• Structured semantic HTML5 markup and developed a fully responsive layout<br>
+• Optimized cross-browser compatibility to deliver a seamless user experience on various devices<br>
+
+Live demo: https://alinazolo.github.io/project-pets-are-friend/ <br>
+Source code (GitHub): https://github.com/alinazolo/project-pets-are-friend
 
