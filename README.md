@@ -20,26 +20,28 @@ JavaScript | TypeScript | Node.js | React | Next.js | Next.js | HTML5 | CSS3 | E
 
 <b>📫 How to reach me:</b>
 
-[LinkedIn]([[https://www.linkedin.com/in/alina-zolotopup99/?locale=en_US])
+[LinkedIn](https://www.linkedin.com/in/alina-zolotopup99/?locale=en_US)
 [Email](mailto:alinazolotopup99@gmail.com)
 
-🧰 Projects
-Project: NoteHub is a simple and efficient app for managing personal notes.
 
-Role: Frontend Developer
+<b>🧰 Projects<b>
+
+<b>Project:</b> NoteHub is a simple and efficient app for managing personal notes.
+
+<b>Role:</b> Frontend Developer
 Tech stack: TypeScript · Next.js (App Router) · TanStack Query (React Query) · Zustand · REST API · SSR/CSR · Dynamic Routes · Pagination · Responsive Web Design · Git · GitHub · CSS Modules · Authentication
 
-Key features & achievements:
-• Integrated REST API and implemented full CRUD functionality (create, read, update, delete)
-• Built data fetching and caching with TanStack Query for smoother UX and better performance
-• Configuring authentication with private and public routes
-• Added meta tags to improve the SEO of the site
-• Implementing global state in Next.js using the zustand library
-• Implemented both SSR and CSR approaches in Next.js for optimal loading and interaction
-• Added pagination for structured content browsing and scalable lists
-• Developed dynamic routes and app navigation for a clean user flow
+<b>Key features & achievements:</b>
+• Integrated REST API and implemented full CRUD functionality (create, read, update, delete)<br>
+• Built data fetching and caching with TanStack Query for smoother UX and better performance<br>
+• Configuring authentication with private and public routes<br>
+• Added meta tags to improve the SEO of the site<br>
+• Implementing global state in Next.js using the zustand library<br>
+• Implemented both SSR and CSR approaches in Next.js for optimal loading and interaction<br>
+• Added pagination for structured content browsing and scalable lists<br>
+• Developed dynamic routes and app navigation for a clean user flow<br>
 • Ensured responsive layout and cross-device compatibility
 
-[Live demo ](https://09-auth-eight-taupe.vercel.app/) 
+[Live demo ](https://09-auth-eight-taupe.vercel.app/) <br>
 [Source code ]([https://09-auth-eight-taupe.vercel.app/](https://github.com/alinazolo/09-auth )) 
 
