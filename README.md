@@ -24,7 +24,7 @@ JavaScript | TypeScript | Node.js | React | Next.js | Next.js | HTML5 | CSS3 | E
 [Email](mailto:alinazolotopup99@gmail.com)
 
 
-<b>🧰 Projects<b>
+<b>🧰 Projects</b>
 
 <b>Project:</b> NoteHub is a simple and efficient app for managing personal notes.
 
@@ -40,8 +40,8 @@ Tech stack: TypeScript · Next.js (App Router) · TanStack Query (React Query) �
 • Implemented both SSR and CSR approaches in Next.js for optimal loading and interaction<br>
 • Added pagination for structured content browsing and scalable lists<br>
 • Developed dynamic routes and app navigation for a clean user flow<br>
-• Ensured responsive layout and cross-device compatibility
+• Ensured responsive layout and cross-device compatibility <br>
 
 [Live demo ](https://09-auth-eight-taupe.vercel.app/) <br>
-[Source code ]([https://09-auth-eight-taupe.vercel.app/](https://github.com/alinazolo/09-auth )) 
+[Source code ](https://github.com/alinazolo/09-auth) 
 
