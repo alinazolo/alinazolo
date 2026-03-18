@@ -1,21 +1,26 @@
- 👋 Hi, I'm Alina Zolotopup
+ <b>👋 Hi, I'm Alina Zolotopup</b>
 
-Junior Full-Stack Developer | React, Next.js, Node.js
+<b>Junior Full-Stack Developer | React, Next.js, Node.js</b>
 
 Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+
 
 <b>🧰 Tech Stack</b> 
 
 JavaScript | TypeScript | Node.js | React | Next.js | Next.js | HTML5 | CSS3 | Express | MongoDB | REST API etc.
 
-🗣️ Languages
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
-![French](https://img.shields.io/badge/French-B2-blue?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+<b>🗣️ Languages</b>
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)<br>
+![French](https://img.shields.io/badge/French-B2-blue?style=flat-square)<br>
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)<br>
 ![Russian](https://img.shields.io/badge/Russian-Native-blue?style=flat-square)
 
-📫 How to reach me:  
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alina-zolotopup99/?locale=en_US)) 
+
+<b>📫 How to reach me:</b>
+
+[LinkedIn]([[https://www.linkedin.com/in/alina-zolotopup99/?locale=en_US])
 [Email](mailto:alinazolotopup99@gmail.com)
 
 🧰 Projects
