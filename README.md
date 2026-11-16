@@ -1,6 +1,6 @@
  <b>👋 Hi, I'm Alina Zolotopup</b>
 
-<b>Junior Full-Stack Developer | React, Next.js, Node.js</b>
+<b>Junior Python Developer | Data Science & Analytics </b>
 
 Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
 
